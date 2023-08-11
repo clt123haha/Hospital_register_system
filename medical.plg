@@ -1,0 +1,63 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: medical - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\chen\AppData\Local\Temp\RSP791E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/medical.pdb" /debug /machine:I386 /out:"Debug/medical.exe" /pdbtype:sept 
+.\Debug\AdminWin.obj
+.\Debug\BookingWin.obj
+.\Debug\CBun.obj
+.\Debug\CCombobox.obj
+.\Debug\CEdit.obj
+.\Debug\ChangeBookingWIn.obj
+.\Debug\ChangeDoctorPwdWin.obj
+.\Debug\ChangeDoctorWin.obj
+.\Debug\ChangePwdWin.obj
+.\Debug\CLable.obj
+.\Debug\CMainWin.obj
+.\Debug\Contorl.obj
+.\Debug\CreatDoctor.obj
+.\Debug\CTable.obj
+.\Debug\CTool.obj
+.\Debug\CUser.obj
+.\Debug\CWin.obj
+.\Debug\DEDoctorWin.obj
+.\Debug\Department.obj
+.\Debug\DoctorBookingWin.obj
+.\Debug\DoctorWin.obj
+.\Debug\EnrollWin.obj
+.\Debug\global.obj
+.\Debug\IftPerfectionWin.obj
+.\Debug\main.obj
+.\Debug\NewDepartmentWin.obj
+.\Debug\PatientWin.obj
+.\Debug\PersonCenterWin.obj
+.\Debug\PopUp.obj
+.\Debug\ReservationWin.obj
+.\Debug\SearchDepartmentWin.obj
+.\Debug\SearchDoctorWin.obj
+.\Debug\SearchUserWin.obj
+.\Debug\SeekingWin.obj
+.\Debug\StatisticsWin.obj
+.\Debug\TakeNumberWin.obj
+.\Debug\UserBookingWin.obj
+.\Debug\VaccineAppointmentWin.obj
+.\Debug\VaccineSearchWin.obj
+.\Debug\LoginWin.obj
+]
+Creating command line "link.exe @C:\Users\chen\AppData\Local\Temp\RSP791E.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+medical.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
